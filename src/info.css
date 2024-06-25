@@ -1,0 +1,17 @@
+.infobox {
+   
+justify-content: center;
+text-align: center;
+
+}
+
+.card{
+    justify-content: center;
+    text-align: left;
+    display: flex;
+
+}
+.weather{
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    margin: 1rem;
+}
+.error{
+    text-align: center!important;
+}
